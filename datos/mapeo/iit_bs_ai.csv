@@ -1,0 +1,259 @@
+programa,codigo,materia,capa,creditos,marco,competencia,nivel,relevancia,fuente,kw,emb,sim
+iit_bs_ai,CS 100,Introduction to the Profession,core,2.0,CS2023,SEP,1,1.0,ambos,1.0,1.0,0.544666588306427
+iit_bs_ai,CS 100,Introduction to the Profession,core,2.0,DigComp,2.3,1,1.0,embedding,0.0,1.0,0.3301334083080292
+iit_bs_ai,CS 100,Introduction to the Profession,core,2.0,DigComp,3.3,1,1.0,embedding,0.0,1.0,0.32469525933265686
+iit_bs_ai,CS 100,Introduction to the Profession,core,2.0,DigComp,5.4,1,1.0,ambos,1.0,1.0,0.40199699997901917
+iit_bs_ai,CS 115,Object-Oriented Programming I,core,2.0,CS2023,AI,1,1.0,embedding,0.0,1.0,0.5215103626251221
+iit_bs_ai,CS 115,Object-Oriented Programming I,core,2.0,CS2023,AR,1,1.0,embedding,0.0,1.0,0.4677317142486572
+iit_bs_ai,CS 115,Object-Oriented Programming I,core,2.0,CS2023,FPL,1,1.0,ambos,0.5,1.0,0.529764711856842
+iit_bs_ai,CS 115,Object-Oriented Programming I,core,2.0,CS2023,SDF,1,1.0,keyword,1.0,0.0,0.4248506426811218
+iit_bs_ai,CS 115,Object-Oriented Programming I,core,2.0,DigComp,2.1,1,1.0,embedding,0.0,1.0,0.43202775716781616
+iit_bs_ai,CS 115,Object-Oriented Programming I,core,2.0,DigComp,3.4,1,1.0,ambos,1.0,1.0,0.3160417079925537
+iit_bs_ai,CS 115,Object-Oriented Programming I,core,2.0,DigComp,5.2,1,1.0,embedding,0.0,1.0,0.3217519521713257
+iit_bs_ai,CS 116,Object-Oriented Programming II,core,2.0,CS2023,AI,2,1.0,embedding,0.0,1.0,0.4709344804286957
+iit_bs_ai,CS 116,Object-Oriented Programming II,core,2.0,CS2023,FPL,2,1.0,ambos,0.5,1.0,0.527630627155304
+iit_bs_ai,CS 116,Object-Oriented Programming II,core,2.0,CS2023,SDF,2,1.0,ambos,1.0,1.0,0.4591853618621826
+iit_bs_ai,CS 116,Object-Oriented Programming II,core,2.0,DigComp,2.1,2,1.0,embedding,0.0,1.0,0.39826181530952454
+iit_bs_ai,CS 116,Object-Oriented Programming II,core,2.0,DigComp,3.4,2,1.0,ambos,1.0,1.0,0.3351263701915741
+iit_bs_ai,CS 116,Object-Oriented Programming II,core,2.0,DigComp,5.3,2,1.0,embedding,0.0,1.0,0.323550820350647
+iit_bs_ai,CS 330,Discrete Structures,core,3.0,CS2023,AL,2,1.0,ambos,0.5,1.0,0.37663644552230835
+iit_bs_ai,CS 330,Discrete Structures,core,3.0,CS2023,MSF,2,1.0,ambos,1.0,1.0,0.5047224760055542
+iit_bs_ai,CS 331,Data Structures and Algorithms,core,3.0,CS2023,AL,2,1.0,ambos,1.0,1.0,0.7533435225486755
+iit_bs_ai,CS 331,Data Structures and Algorithms,core,3.0,CS2023,AR,2,1.0,embedding,0.0,1.0,0.5433436036109924
+iit_bs_ai,CS 331,Data Structures and Algorithms,core,3.0,CS2023,DM,2,1.0,embedding,0.0,1.0,0.5321009159088135
+iit_bs_ai,CS 331,Data Structures and Algorithms,core,3.0,CS2023,SDF,2,0.5,keyword,0.5,0.0,0.4147017300128937
+iit_bs_ai,CS 331,Data Structures and Algorithms,core,3.0,DigComp,1.3,2,1.0,embedding,0.0,1.0,0.4676886796951294
+iit_bs_ai,CS 331,Data Structures and Algorithms,core,3.0,DigComp,3.4,2,1.0,ambos,1.0,1.0,0.44115933775901794
+iit_bs_ai,CS 331,Data Structures and Algorithms,core,3.0,DigComp,4.2,2,1.0,embedding,0.0,1.0,0.35660940408706665
+iit_bs_ai,CS 340,Programming Paradigms and Patterns,core,3.0,CS2023,AL,2,1.0,embedding,0.0,1.0,0.5618520975112915
+iit_bs_ai,CS 340,Programming Paradigms and Patterns,core,3.0,CS2023,AR,2,1.0,embedding,0.0,1.0,0.5273219347000122
+iit_bs_ai,CS 340,Programming Paradigms and Patterns,core,3.0,CS2023,FPL,2,1.0,ambos,1.0,1.0,0.6686009168624878
+iit_bs_ai,CS 340,Programming Paradigms and Patterns,core,3.0,CS2023,SDF,2,1.0,keyword,1.0,0.0,0.49810469150543213
+iit_bs_ai,CS 340,Programming Paradigms and Patterns,core,3.0,DigComp,1.3,2,1.0,embedding,0.0,1.0,0.3164498805999756
+iit_bs_ai,CS 340,Programming Paradigms and Patterns,core,3.0,DigComp,3.4,2,1.0,ambos,1.0,1.0,0.5280638337135315
+iit_bs_ai,CS 340,Programming Paradigms and Patterns,core,3.0,DigComp,5.3,2,1.0,embedding,0.0,1.0,0.33384567499160767
+iit_bs_ai,CS 422,Data Mining,core,3.0,CS2023,AI,3,1.0,keyword,1.0,0.0,0.28802838921546936
+iit_bs_ai,CS 422,Data Mining,core,3.0,CS2023,AL,3,1.0,embedding,0.0,1.0,0.376665860414505
+iit_bs_ai,CS 422,Data Mining,core,3.0,CS2023,DM,3,1.0,ambos,0.5,1.0,0.5510480403900146
+iit_bs_ai,CS 422,Data Mining,core,3.0,DigComp,1.1,3,1.0,embedding,0.0,1.0,0.44508013129234314
+iit_bs_ai,CS 422,Data Mining,core,3.0,DigComp,1.3,3,1.0,ambos,0.5,1.0,0.5563468933105469
+iit_bs_ai,CS 422,Data Mining,core,3.0,DigComp,4.2,3,1.0,embedding,0.0,1.0,0.3991681933403015
+iit_bs_ai,CS 425,Database Organization,core,3.0,CS2023,AR,3,1.0,embedding,0.0,1.0,0.5107039213180542
+iit_bs_ai,CS 425,Database Organization,core,3.0,CS2023,DM,3,1.0,ambos,1.0,1.0,0.6725017428398132
+iit_bs_ai,CS 425,Database Organization,core,3.0,CS2023,OS,3,1.0,embedding,0.0,1.0,0.39428573846817017
+iit_bs_ai,CS 425,Database Organization,core,3.0,DigComp,1.1,3,1.0,embedding,0.0,1.0,0.3501920700073242
+iit_bs_ai,CS 425,Database Organization,core,3.0,DigComp,1.3,3,1.0,ambos,1.0,1.0,0.5048918128013611
+iit_bs_ai,CS 425,Database Organization,core,3.0,DigComp,4.2,3,1.0,embedding,0.0,1.0,0.35227715969085693
+iit_bs_ai,CS 430,Introduction to Algorithms,core,3.0,CS2023,AI,2,1.0,embedding,0.0,1.0,0.4374602437019348
+iit_bs_ai,CS 430,Introduction to Algorithms,core,3.0,CS2023,AL,2,1.0,ambos,1.0,1.0,0.7429572939872742
+iit_bs_ai,CS 430,Introduction to Algorithms,core,3.0,CS2023,SDF,2,1.0,embedding,0.0,1.0,0.4180498719215393
+iit_bs_ai,CS 430,Introduction to Algorithms,core,3.0,DigComp,1.3,2,0.5,embedding,0.0,0.5,0.31218189001083374
+iit_bs_ai,CS 430,Introduction to Algorithms,core,3.0,DigComp,3.4,2,1.0,ambos,1.0,1.0,0.4968712627887726
+iit_bs_ai,CS 430,Introduction to Algorithms,core,3.0,DigComp,5.2,2,1.0,embedding,0.0,1.0,0.32284852862358093
+iit_bs_ai,CS 480,Introduction to Artificial Intelligence,core,3.0,CS2023,AI,2,1.0,ambos,1.0,1.0,0.8247165083885193
+iit_bs_ai,CS 480,Introduction to Artificial Intelligence,core,3.0,CS2023,AL,2,1.0,embedding,0.0,1.0,0.5325322151184082
+iit_bs_ai,CS 480,Introduction to Artificial Intelligence,core,3.0,CS2023,AR,2,1.0,embedding,0.0,1.0,0.41964152455329895
+iit_bs_ai,CS 480,Introduction to Artificial Intelligence,core,3.0,DigComp,2.1,2,1.0,embedding,0.0,1.0,0.45503947138786316
+iit_bs_ai,CS 480,Introduction to Artificial Intelligence,core,3.0,DigComp,2.6,2,1.0,embedding,0.0,1.0,0.40172332525253296
+iit_bs_ai,CS 480,Introduction to Artificial Intelligence,core,3.0,DigComp,3.4,2,1.0,embedding,0.0,1.0,0.3945094645023346
+iit_bs_ai,CS 481,Artificial Intelligence Language Understanding,core,3.0,CS2023,AI,3,1.0,ambos,1.0,1.0,0.8034480810165405
+iit_bs_ai,CS 481,Artificial Intelligence Language Understanding,core,3.0,CS2023,AL,3,1.0,embedding,0.0,1.0,0.5014691352844238
+iit_bs_ai,CS 481,Artificial Intelligence Language Understanding,core,3.0,CS2023,AR,3,1.0,embedding,0.0,1.0,0.4926162660121918
+iit_bs_ai,CS 481,Artificial Intelligence Language Understanding,core,3.0,DigComp,1.2,3,1.0,embedding,0.0,1.0,0.38421276211738586
+iit_bs_ai,CS 481,Artificial Intelligence Language Understanding,core,3.0,DigComp,2.1,3,1.0,ambos,1.0,1.0,0.47292307019233704
+iit_bs_ai,CS 481,Artificial Intelligence Language Understanding,core,3.0,DigComp,3.4,3,1.0,embedding,0.0,1.0,0.3878704905509949
+iit_bs_ai,CS 485,Computers and Society,core,3.0,CS2023,AR,3,1.0,embedding,0.0,1.0,0.4735031723976135
+iit_bs_ai,CS 485,Computers and Society,core,3.0,CS2023,SEP,3,1.0,ambos,1.0,1.0,0.5468419194221497
+iit_bs_ai,CS 485,Computers and Society,core,3.0,CS2023,SF,3,1.0,embedding,0.0,1.0,0.5380241870880127
+iit_bs_ai,CS 485,Computers and Society,core,3.0,DigComp,2.3,3,1.0,ambos,1.0,1.0,0.5278043746948242
+iit_bs_ai,CS 485,Computers and Society,core,3.0,DigComp,5.2,3,1.0,embedding,0.0,1.0,0.5318658351898193
+iit_bs_ai,CS 485,Computers and Society,core,3.0,DigComp,5.4,3,1.0,embedding,0.0,1.0,0.5052140355110168
+iit_bs_ai,CS 487,Software Engineering I,core,3.0,CS2023,AR,3,1.0,embedding,0.0,1.0,0.5225951671600342
+iit_bs_ai,CS 487,Software Engineering I,core,3.0,CS2023,SDF,3,1.0,embedding,0.0,1.0,0.6294003129005432
+iit_bs_ai,CS 487,Software Engineering I,core,3.0,CS2023,SE,3,1.0,ambos,1.0,1.0,0.7566313147544861
+iit_bs_ai,CS 487,Software Engineering I,core,3.0,DigComp,1.3,3,1.0,embedding,0.0,1.0,0.3783455491065979
+iit_bs_ai,CS 487,Software Engineering I,core,3.0,DigComp,5.2,3,1.0,embedding,0.0,1.0,0.4026932120323181
+iit_bs_ai,CS 487,Software Engineering I,core,3.0,DigComp,5.3,3,1.0,embedding,0.0,1.0,0.39512595534324646
+iit_bs_ai,MATH 151,Calculus I,core,5.0,CS2023,MSF,1,1.0,ambos,1.0,1.0,0.49732470512390137
+iit_bs_ai,MATH 151,Calculus I,core,5.0,DigComp,3.4,1,1.0,embedding,0.0,1.0,0.34458616375923157
+iit_bs_ai,MATH 152,Calculus II,core,5.0,CS2023,MSF,2,1.0,ambos,1.0,1.0,0.46188580989837646
+iit_bs_ai,MATH 152,Calculus II,core,5.0,DigComp,3.4,2,1.0,embedding,0.0,1.0,0.3268129825592041
+iit_bs_ai,MATH 251,Multivariate and Vector Calculus,core,4.0,CS2023,MSF,1,1.0,ambos,1.0,1.0,0.4457494914531708
+iit_bs_ai,MATH 332,Linear Algebra: Theory and Applications,core,3.0,CS2023,AL,2,1.0,embedding,0.0,1.0,0.45563605427742004
+iit_bs_ai,MATH 332,Linear Algebra: Theory and Applications,core,3.0,CS2023,MSF,2,1.0,ambos,1.0,1.0,0.545537531375885
+iit_bs_ai,MATH 332,Linear Algebra: Theory and Applications,core,3.0,DigComp,3.4,2,0.5,embedding,0.0,0.5,0.31005385518074036
+iit_bs_ai,MATH 332,Linear Algebra: Theory and Applications,core,3.0,DigComp,5.2,2,0.5,keyword,0.5,0.0,0.12196473032236099
+iit_bs_ai,MATH 474,Probability and Statistics,core,3.0,CS2023,MSF,3,1.0,ambos,1.0,1.0,0.4483806788921356
+iit_bs_ai,MATH 474,Probability and Statistics,core,3.0,DigComp,1.2,3,0.5,embedding,0.0,0.5,0.31273353099823
+iit_bs_ai,MATH 474,Probability and Statistics,core,3.0,DigComp,1.3,3,0.5,keyword,0.5,0.0,0.1712479442358017
+iit_bs_ai,MATH 476,Statistics,core,3.0,CS2023,MSF,3,1.0,ambos,1.0,1.0,0.36597079038619995
+iit_bs_ai,MATH 476,Statistics,core,3.0,DigComp,1.2,3,1.0,embedding,0.0,1.0,0.3587626814842224
+iit_bs_ai,MATH 476,Statistics,core,3.0,DigComp,1.3,3,0.5,keyword,0.5,0.0,0.2634436786174774
+iit_bs_ai,,AI Depth Course (slot obligatorio: machine learning avanzado),core,3.0,CS2023,AI,4,1.0,ambos,1.0,1.0,0.6655155420303345
+iit_bs_ai,,AI Depth Course (slot obligatorio: machine learning avanzado),core,3.0,CS2023,AL,4,1.0,embedding,0.0,1.0,0.48933109641075134
+iit_bs_ai,,AI Depth Course (slot obligatorio: machine learning avanzado),core,3.0,CS2023,PDC,4,1.0,embedding,0.0,1.0,0.3645287752151489
+iit_bs_ai,,AI Depth Course (slot obligatorio: machine learning avanzado),core,3.0,DigComp,3.4,4,1.0,embedding,0.0,1.0,0.31552672386169434
+iit_bs_ai,,"AI Breadth Course (slot obligatorio, menú heterogéneo)",core,3.0,CS2023,AI,2,1.0,ambos,1.0,1.0,0.38222095370292664
+iit_bs_ai,,"AI Breadth Course (slot obligatorio, menú heterogéneo)",core,3.0,CS2023,AL,2,1.0,embedding,0.0,1.0,0.35966578125953674
+iit_bs_ai,CS 484,Introduction to Machine Learning,major_elective,3.0,CS2023,AI,2,1.0,ambos,1.0,1.0,0.5627353191375732
+iit_bs_ai,CS 484,Introduction to Machine Learning,major_elective,3.0,CS2023,AL,2,1.0,embedding,0.0,1.0,0.42009639739990234
+iit_bs_ai,CS 484,Introduction to Machine Learning,major_elective,3.0,DigComp,1.3,2,0.5,embedding,0.0,0.5,0.2970566749572754
+iit_bs_ai,CS 484,Introduction to Machine Learning,major_elective,3.0,DigComp,3.4,2,0.5,embedding,0.0,0.5,0.3008929491043091
+iit_bs_ai,CS 484,Introduction to Machine Learning,major_elective,3.0,DigComp,5.4,2,1.0,embedding,0.0,1.0,0.3407089114189148
+iit_bs_ai,CS 584,Machine Learning,major_elective,3.0,CS2023,AI,4,1.0,ambos,1.0,1.0,0.5654726028442383
+iit_bs_ai,CS 584,Machine Learning,major_elective,3.0,CS2023,AL,4,1.0,embedding,0.0,1.0,0.3920009136199951
+iit_bs_ai,CS 584,Machine Learning,major_elective,3.0,DigComp,3.4,4,0.5,embedding,0.0,0.5,0.2975727915763855
+iit_bs_ai,CS 584,Machine Learning,major_elective,3.0,DigComp,5.4,4,1.0,embedding,0.0,1.0,0.32689881324768066
+iit_bs_ai,CS 585,Natural Language Processing,major_elective,3.0,CS2023,AI,4,1.0,ambos,1.0,0.5,0.3376498520374298
+iit_bs_ai,CS 585,Natural Language Processing,major_elective,3.0,CS2023,AR,4,0.5,embedding,0.0,0.5,0.3307155966758728
+iit_bs_ai,CS 585,Natural Language Processing,major_elective,3.0,CS2023,FPL,4,1.0,embedding,0.0,1.0,0.4761355221271515
+iit_bs_ai,CS 585,Natural Language Processing,major_elective,3.0,DigComp,2.1,4,1.0,ambos,1.0,1.0,0.3388807475566864
+iit_bs_ai,CS 585,Natural Language Processing,major_elective,3.0,DigComp,2.5,4,1.0,embedding,0.0,1.0,0.34418120980262756
+iit_bs_ai,CS 585,Natural Language Processing,major_elective,3.0,DigComp,3.2,4,1.0,embedding,0.0,1.0,0.34313902258872986
+iit_bs_ai,CS 440,Programming Languages and Translators,major_elective,3.0,CS2023,FPL,3,1.0,ambos,1.0,1.0,0.7147479057312012
+iit_bs_ai,CS 440,Programming Languages and Translators,major_elective,3.0,CS2023,SDF,3,1.0,ambos,1.0,1.0,0.41031861305236816
+iit_bs_ai,CS 440,Programming Languages and Translators,major_elective,3.0,CS2023,SE,3,1.0,embedding,0.0,1.0,0.3856792747974396
+iit_bs_ai,CS 440,Programming Languages and Translators,major_elective,3.0,DigComp,3.2,3,1.0,embedding,0.0,1.0,0.3530394434928894
+iit_bs_ai,CS 440,Programming Languages and Translators,major_elective,3.0,DigComp,3.4,3,1.0,ambos,1.0,1.0,0.31653648614883423
+iit_bs_ai,CS 440,Programming Languages and Translators,major_elective,3.0,DigComp,5.3,3,1.0,embedding,0.0,1.0,0.32406318187713623
+iit_bs_ai,CS 445,Object Oriented Design and Programming,major_elective,3.0,CS2023,AR,3,1.0,embedding,0.0,1.0,0.5333059430122375
+iit_bs_ai,CS 445,Object Oriented Design and Programming,major_elective,3.0,CS2023,FPL,3,1.0,ambos,0.5,1.0,0.5377047061920166
+iit_bs_ai,CS 445,Object Oriented Design and Programming,major_elective,3.0,CS2023,SDF,3,1.0,keyword,1.0,0.0,0.4969092011451721
+iit_bs_ai,CS 445,Object Oriented Design and Programming,major_elective,3.0,CS2023,SE,3,1.0,embedding,0.0,1.0,0.5242424607276917
+iit_bs_ai,CS 445,Object Oriented Design and Programming,major_elective,3.0,DigComp,2.4,3,1.0,embedding,0.0,1.0,0.3672455847263336
+iit_bs_ai,CS 445,Object Oriented Design and Programming,major_elective,3.0,DigComp,3.4,3,1.0,keyword,1.0,0.0,0.36163875460624695
+iit_bs_ai,CS 445,Object Oriented Design and Programming,major_elective,3.0,DigComp,5.2,3,1.0,embedding,0.0,1.0,0.4326310157775879
+iit_bs_ai,CS 445,Object Oriented Design and Programming,major_elective,3.0,DigComp,5.3,3,1.0,ambos,0.5,1.0,0.4246590733528137
+iit_bs_ai,,Computer Vision,major_elective,3.0,CS2023,AI,4,0.5,keyword,0.5,0.0,0.21477118134498596
+iit_bs_ai,,Computer Vision,major_elective,3.0,CS2023,AR,4,0.5,embedding,0.0,0.5,0.334028959274292
+iit_bs_ai,,Computer Vision,major_elective,3.0,CS2023,GIT,4,1.0,ambos,0.5,1.0,0.42699843645095825
+iit_bs_ai,,Computer Vision,major_elective,3.0,CS2023,HCI,4,0.5,embedding,0.0,0.5,0.3518657982349396
+iit_bs_ai,,Computer Vision,major_elective,3.0,DigComp,3.4,4,1.0,embedding,0.0,1.0,0.3260413110256195
+iit_bs_ai,,Advanced Data Mining,major_elective,3.0,CS2023,AI,4,1.0,keyword,1.0,0.0,0.3262083828449249
+iit_bs_ai,,Advanced Data Mining,major_elective,3.0,CS2023,AL,4,1.0,embedding,0.0,1.0,0.4041076898574829
+iit_bs_ai,,Advanced Data Mining,major_elective,3.0,CS2023,DM,4,1.0,ambos,0.5,1.0,0.5277882218360901
+iit_bs_ai,,Advanced Data Mining,major_elective,3.0,CS2023,PDC,4,1.0,embedding,0.0,1.0,0.3634811341762543
+iit_bs_ai,,Advanced Data Mining,major_elective,3.0,DigComp,1.1,4,1.0,embedding,0.0,1.0,0.4363536536693573
+iit_bs_ai,,Advanced Data Mining,major_elective,3.0,DigComp,1.2,4,1.0,embedding,0.0,1.0,0.3834154009819031
+iit_bs_ai,,Advanced Data Mining,major_elective,3.0,DigComp,1.3,4,1.0,ambos,0.5,1.0,0.5356029272079468
+iit_bs_ai,,Deep Learning,major_elective,3.0,CS2023,AI,4,1.0,ambos,1.0,1.0,0.44418734312057495
+iit_bs_ai,,Deep Learning,major_elective,3.0,CS2023,SDF,4,0.5,embedding,0.0,0.5,0.3420928120613098
+iit_bs_ai,,Deep Learning,major_elective,3.0,DigComp,5.4,4,1.0,embedding,0.0,1.0,0.32146579027175903
+iit_bs_ai,,Reinforcement Learning,major_elective,3.0,CS2023,AI,4,1.0,keyword,1.0,0.0,0.3024146854877472
+iit_bs_ai,,Advanced Artificial Intelligence,major_elective,3.0,CS2023,AI,4,1.0,ambos,1.0,1.0,0.7830132246017456
+iit_bs_ai,,Advanced Artificial Intelligence,major_elective,3.0,CS2023,AL,4,1.0,embedding,0.0,1.0,0.5151302218437195
+iit_bs_ai,,Advanced Artificial Intelligence,major_elective,3.0,CS2023,AR,4,1.0,embedding,0.0,1.0,0.39732638001441956
+iit_bs_ai,,Advanced Artificial Intelligence,major_elective,3.0,DigComp,1.2,4,1.0,embedding,0.0,1.0,0.38676968216896057
+iit_bs_ai,,Advanced Artificial Intelligence,major_elective,3.0,DigComp,2.1,4,1.0,embedding,0.0,1.0,0.44881412386894226
+iit_bs_ai,,Advanced Artificial Intelligence,major_elective,3.0,DigComp,3.4,4,1.0,embedding,0.0,1.0,0.38918983936309814
+iit_bs_ai,,Probabilistic Graphical Models,major_elective,3.0,CS2023,AI,4,1.0,keyword,1.0,0.0,0.26759234070777893
+iit_bs_ai,,Probabilistic Graphical Models,major_elective,3.0,CS2023,AL,4,0.5,embedding,0.0,0.5,0.34036141633987427
+iit_bs_ai,,Probabilistic Graphical Models,major_elective,3.0,CS2023,GIT,4,0.5,embedding,0.0,0.5,0.3358684778213501
+iit_bs_ai,,Probabilistic Graphical Models,major_elective,3.0,CS2023,MSF,4,1.0,embedding,0.0,1.0,0.3994022607803345
+iit_bs_ai,,Probabilistic Graphical Models,major_elective,3.0,DigComp,3.4,4,1.0,embedding,0.0,1.0,0.3758130967617035
+iit_bs_ai,,Statistical Learning,major_elective,3.0,CS2023,AI,4,1.0,keyword,1.0,0.0,0.307014137506485
+iit_bs_ai,,Statistical Learning,major_elective,3.0,CS2023,MSF,4,1.0,ambos,1.0,1.0,0.4183483421802521
+iit_bs_ai,,Statistical Learning,major_elective,3.0,DigComp,1.3,4,0.5,keyword,0.5,0.0,0.2697906494140625
+iit_bs_ai,,Statistical Learning,major_elective,3.0,DigComp,5.4,4,1.0,embedding,0.0,1.0,0.34536170959472656
+iit_bs_ai,,Bayesian Computational Statistics,major_elective,3.0,CS2023,MSF,4,1.0,ambos,1.0,1.0,0.3827194571495056
+iit_bs_ai,,Bayesian Computational Statistics,major_elective,3.0,DigComp,1.3,4,0.5,keyword,0.5,0.0,0.18125160038471222
+iit_bs_ai,,Bayesian Computational Statistics,major_elective,3.0,DigComp,3.4,4,0.5,embedding,0.0,0.5,0.30079686641693115
+iit_bs_ai,,Introduction to Linguistics,major_elective,3.0,CS2023,FPL,2,1.0,embedding,0.0,1.0,0.4934849143028259
+iit_bs_ai,,Introduction to Linguistics,major_elective,3.0,DigComp,1.1,2,1.0,embedding,0.0,1.0,0.38671478629112244
+iit_bs_ai,,Introduction to Linguistics,major_elective,3.0,DigComp,2.1,2,1.0,embedding,0.0,1.0,0.321855753660202
+iit_bs_ai,,Introduction to Linguistics,major_elective,3.0,DigComp,3.2,2,1.0,embedding,0.0,1.0,0.38272368907928467
+iit_bs_ai,,"Artificial Intelligence, Philosophy and Ethics",major_elective,3.0,CS2023,AI,2,1.0,ambos,1.0,1.0,0.717677652835846
+iit_bs_ai,,"Artificial Intelligence, Philosophy and Ethics",major_elective,3.0,CS2023,AL,2,1.0,embedding,0.0,1.0,0.42416876554489136
+iit_bs_ai,,"Artificial Intelligence, Philosophy and Ethics",major_elective,3.0,CS2023,SEP,2,1.0,ambos,1.0,1.0,0.6192412972450256
+iit_bs_ai,,"Artificial Intelligence, Philosophy and Ethics",major_elective,3.0,DigComp,2.4,2,1.0,embedding,0.0,1.0,0.39719897508621216
+iit_bs_ai,,"Artificial Intelligence, Philosophy and Ethics",major_elective,3.0,DigComp,2.6,2,1.0,embedding,0.0,1.0,0.4466951787471771
+iit_bs_ai,,"Artificial Intelligence, Philosophy and Ethics",major_elective,3.0,DigComp,3.1,2,1.0,embedding,0.0,1.0,0.42608442902565
+iit_bs_ai,,"Artificial Intelligence, Philosophy and Ethics",major_elective,3.0,DigComp,4.2,2,0.5,keyword,0.5,0.0,0.3221918046474457
+iit_bs_ai,,Bioethics,major_elective,3.0,CS2023,SEP,2,1.0,ambos,1.0,1.0,0.4817628860473633
+iit_bs_ai,,Bioethics,major_elective,3.0,DigComp,3.1,2,1.0,embedding,0.0,1.0,0.34163832664489746
+iit_bs_ai,,Bioethics,major_elective,3.0,DigComp,3.3,2,1.0,embedding,0.0,1.0,0.3864728510379791
+iit_bs_ai,,Bioethics,major_elective,3.0,DigComp,4.2,2,0.5,keyword,0.5,0.0,0.3082042932510376
+iit_bs_ai,,Bioethics,major_elective,3.0,DigComp,4.3,2,1.0,embedding,0.0,1.0,0.3221653699874878
+iit_bs_ai,,Introduction to Quantum Computing,major_elective,3.0,DigComp,3.4,2,1.0,embedding,0.0,1.0,0.35605114698410034
+iit_bs_ai,,Learning Theory,major_elective,3.0,CS2023,AI,3,1.0,ambos,0.5,1.0,0.4246639013290405
+iit_bs_ai,,Learning Theory,major_elective,3.0,CS2023,FPL,3,0.5,embedding,0.0,0.5,0.34674233198165894
+iit_bs_ai,,Learning Theory,major_elective,3.0,CS2023,SDF,3,1.0,embedding,0.0,1.0,0.422778457403183
+iit_bs_ai,,Learning Theory,major_elective,3.0,DigComp,3.4,3,1.0,embedding,0.0,1.0,0.35610663890838623
+iit_bs_ai,,Cognitive Science,major_elective,3.0,CS2023,AI,2,1.0,ambos,0.5,1.0,0.38286706805229187
+iit_bs_ai,,Cognitive Science,major_elective,3.0,CS2023,HCI,2,1.0,ambos,0.5,1.0,0.3868969678878784
+iit_bs_ai,,Cognitive Science,major_elective,3.0,CS2023,MSF,2,0.5,embedding,0.0,0.5,0.34012335538864136
+iit_bs_ai,,Cognitive Science,major_elective,3.0,DigComp,1.2,2,1.0,embedding,0.0,1.0,0.3642566204071045
+iit_bs_ai,,Cognitive Science,major_elective,3.0,DigComp,2.4,2,1.0,embedding,0.0,1.0,0.3761965334415436
+iit_bs_ai,,Cognitive Science,major_elective,3.0,DigComp,3.4,2,1.0,embedding,0.0,1.0,0.46382132172584534
+iit_bs_ai,CS 350,Computer Organization and Assembly Language Programming,major_elective,3.0,CS2023,AR,2,1.0,ambos,1.0,1.0,0.7413941621780396
+iit_bs_ai,CS 350,Computer Organization and Assembly Language Programming,major_elective,3.0,CS2023,FPL,2,1.0,embedding,0.0,1.0,0.5727349519729614
+iit_bs_ai,CS 350,Computer Organization and Assembly Language Programming,major_elective,3.0,CS2023,SDF,2,1.0,ambos,1.0,1.0,0.45096346735954285
+iit_bs_ai,CS 350,Computer Organization and Assembly Language Programming,major_elective,3.0,CS2023,SF,2,0.5,keyword,0.5,0.0,0.40204501152038574
+iit_bs_ai,CS 350,Computer Organization and Assembly Language Programming,major_elective,3.0,DigComp,1.3,2,1.0,embedding,0.0,1.0,0.3312130272388458
+iit_bs_ai,CS 350,Computer Organization and Assembly Language Programming,major_elective,3.0,DigComp,2.1,2,1.0,embedding,0.0,1.0,0.325736939907074
+iit_bs_ai,CS 350,Computer Organization and Assembly Language Programming,major_elective,3.0,DigComp,3.4,2,1.0,ambos,1.0,1.0,0.4533065855503082
+iit_bs_ai,CS 350,Computer Organization and Assembly Language Programming,major_elective,3.0,DigComp,5.1,2,0.5,keyword,0.5,0.0,0.2778973877429962
+iit_bs_ai,CS 351,Systems Programming,major_elective,3.0,CS2023,OS,2,1.0,ambos,0.5,1.0,0.6186996102333069
+iit_bs_ai,CS 351,Systems Programming,major_elective,3.0,CS2023,SDF,2,1.0,ambos,1.0,1.0,0.5800168514251709
+iit_bs_ai,CS 351,Systems Programming,major_elective,3.0,CS2023,SF,2,1.0,ambos,0.5,1.0,0.7117519378662109
+iit_bs_ai,CS 351,Systems Programming,major_elective,3.0,DigComp,1.3,2,1.0,embedding,0.0,1.0,0.37616997957229614
+iit_bs_ai,CS 351,Systems Programming,major_elective,3.0,DigComp,3.4,2,1.0,ambos,1.0,1.0,0.5701293349266052
+iit_bs_ai,CS 351,Systems Programming,major_elective,3.0,DigComp,5.1,2,1.0,keyword,1.0,0.0,0.36040154099464417
+iit_bs_ai,CS 351,Systems Programming,major_elective,3.0,DigComp,5.3,2,1.0,embedding,0.0,1.0,0.40456199645996094
+iit_bs_ai,CS 429,Information Retrieval,major_elective,3.0,CS2023,AI,3,0.5,keyword,0.5,0.0,0.19869911670684814
+iit_bs_ai,CS 429,Information Retrieval,major_elective,3.0,CS2023,DM,3,1.0,embedding,0.0,1.0,0.3745405673980713
+iit_bs_ai,CS 429,Information Retrieval,major_elective,3.0,DigComp,1.1,3,1.0,ambos,1.0,1.0,0.5903986096382141
+iit_bs_ai,CS 429,Information Retrieval,major_elective,3.0,DigComp,1.3,3,1.0,embedding,0.0,1.0,0.5760272145271301
+iit_bs_ai,CS 429,Information Retrieval,major_elective,3.0,DigComp,3.2,3,1.0,embedding,0.0,1.0,0.4432370364665985
+iit_bs_ai,CS 451,Introduction to Parallel and Distributed Computing,major_elective,3.0,CS2023,OS,2,1.0,embedding,0.0,1.0,0.38447490334510803
+iit_bs_ai,CS 451,Introduction to Parallel and Distributed Computing,major_elective,3.0,CS2023,PDC,2,1.0,ambos,1.0,1.0,0.8632432222366333
+iit_bs_ai,CS 451,Introduction to Parallel and Distributed Computing,major_elective,3.0,CS2023,SPD,2,1.0,embedding,0.0,1.0,0.40100419521331787
+iit_bs_ai,CS 451,Introduction to Parallel and Distributed Computing,major_elective,3.0,DigComp,2.2,2,1.0,embedding,0.0,1.0,0.32159677147865295
+iit_bs_ai,CS 451,Introduction to Parallel and Distributed Computing,major_elective,3.0,DigComp,2.4,2,0.5,embedding,0.0,0.5,0.3015367090702057
+iit_bs_ai,CS 451,Introduction to Parallel and Distributed Computing,major_elective,3.0,DigComp,3.4,2,1.0,embedding,0.0,1.0,0.3463941812515259
+iit_bs_ai,CS 458,Introduction to Information Security,major_elective,3.0,CS2023,SEC,2,1.0,ambos,1.0,1.0,0.8197022080421448
+iit_bs_ai,CS 458,Introduction to Information Security,major_elective,3.0,CS2023,SEP,2,0.5,embedding,0.0,0.5,0.3481844663619995
+iit_bs_ai,CS 458,Introduction to Information Security,major_elective,3.0,CS2023,SF,2,1.0,embedding,0.0,1.0,0.3739187717437744
+iit_bs_ai,CS 458,Introduction to Information Security,major_elective,3.0,DigComp,1.3,2,1.0,embedding,0.0,1.0,0.4134252965450287
+iit_bs_ai,CS 458,Introduction to Information Security,major_elective,3.0,DigComp,4.1,2,1.0,ambos,1.0,1.0,0.6113634705543518
+iit_bs_ai,CS 458,Introduction to Information Security,major_elective,3.0,DigComp,4.2,2,1.0,embedding,0.0,1.0,0.5033925175666809
+iit_bs_ai,DS 451,Data Science Life Cycle,major_elective,3.0,CS2023,DM,3,1.0,ambos,0.5,1.0,0.5140267014503479
+iit_bs_ai,DS 451,Data Science Life Cycle,major_elective,3.0,CS2023,PDC,3,1.0,embedding,0.0,1.0,0.37357476353645325
+iit_bs_ai,DS 451,Data Science Life Cycle,major_elective,3.0,DigComp,1.2,3,1.0,embedding,0.0,1.0,0.3291168808937073
+iit_bs_ai,DS 451,Data Science Life Cycle,major_elective,3.0,DigComp,1.3,3,1.0,ambos,1.0,1.0,0.4147399961948395
+iit_bs_ai,DS 451,Data Science Life Cycle,major_elective,3.0,DigComp,4.2,3,1.0,embedding,0.0,1.0,0.3599804937839508
+iit_bs_ai,DS 480,Data Science Projects,major_elective,3.0,CS2023,AL,3,1.0,embedding,0.0,1.0,0.4513530433177948
+iit_bs_ai,DS 480,Data Science Projects,major_elective,3.0,CS2023,DM,3,1.0,ambos,0.5,1.0,0.5966135263442993
+iit_bs_ai,DS 480,Data Science Projects,major_elective,3.0,CS2023,SDF,3,1.0,embedding,0.0,1.0,0.4685380160808563
+iit_bs_ai,DS 480,Data Science Projects,major_elective,3.0,CS2023,SE,3,0.5,keyword,0.5,0.0,0.395437091588974
+iit_bs_ai,DS 480,Data Science Projects,major_elective,3.0,DigComp,1.1,3,1.0,embedding,0.0,1.0,0.40882354974746704
+iit_bs_ai,DS 480,Data Science Projects,major_elective,3.0,DigComp,1.3,3,1.0,ambos,1.0,1.0,0.5456582307815552
+iit_bs_ai,DS 480,Data Science Projects,major_elective,3.0,DigComp,2.4,3,0.5,keyword,0.5,0.0,0.4007369577884674
+iit_bs_ai,DS 480,Data Science Projects,major_elective,3.0,DigComp,4.2,3,1.0,embedding,0.0,1.0,0.41881340742111206
+iit_bs_ai,MATH 484,Regression,major_elective,3.0,CS2023,MSF,3,1.0,keyword,1.0,0.0,0.32572081685066223
+iit_bs_ai,MATH 481,Introduction to Stochastic Processes,major_elective,3.0,CS2023,MSF,2,1.0,keyword,1.0,0.0,0.2959374785423279
+iit_bs_ai,MATH 481,Introduction to Stochastic Processes,major_elective,3.0,CS2023,PDC,2,1.0,embedding,0.0,1.0,0.3603319227695465
+iit_bs_ai,MATH 481,Introduction to Stochastic Processes,major_elective,3.0,CS2023,SF,2,1.0,embedding,0.0,1.0,0.36261898279190063
+iit_bs_ai,MATH 481,Introduction to Stochastic Processes,major_elective,3.0,DigComp,3.4,2,1.0,embedding,0.0,1.0,0.36342310905456543
+iit_bs_ai,MATH 483,Design and Analysis of Experiments,major_elective,3.0,CS2023,GIT,3,1.0,embedding,0.0,1.0,0.3950992822647095
+iit_bs_ai,MATH 483,Design and Analysis of Experiments,major_elective,3.0,CS2023,HCI,3,1.0,embedding,0.0,1.0,0.37177717685699463
+iit_bs_ai,MATH 483,Design and Analysis of Experiments,major_elective,3.0,CS2023,MSF,3,1.0,keyword,1.0,0.0,0.3014674186706543
+iit_bs_ai,MATH 483,Design and Analysis of Experiments,major_elective,3.0,CS2023,SE,3,1.0,embedding,0.0,1.0,0.3661353588104248
+iit_bs_ai,MATH 483,Design and Analysis of Experiments,major_elective,3.0,DigComp,3.4,3,1.0,embedding,0.0,1.0,0.47596243023872375
+iit_bs_ai,MATH 483,Design and Analysis of Experiments,major_elective,3.0,DigComp,5.1,3,1.0,embedding,0.0,1.0,0.38001784682273865
+iit_bs_ai,MATH 483,Design and Analysis of Experiments,major_elective,3.0,DigComp,5.3,3,1.0,ambos,0.5,1.0,0.4123668968677521
+iit_bs_ai,MATH 350,Introduction to Computational Mathematics,major_elective,3.0,CS2023,AL,1,1.0,embedding,0.0,1.0,0.49591150879859924
+iit_bs_ai,MATH 350,Introduction to Computational Mathematics,major_elective,3.0,CS2023,GIT,1,0.5,embedding,0.0,0.5,0.3574991524219513
+iit_bs_ai,MATH 350,Introduction to Computational Mathematics,major_elective,3.0,CS2023,MSF,1,1.0,ambos,1.0,1.0,0.5787051916122437
+iit_bs_ai,MATH 350,Introduction to Computational Mathematics,major_elective,3.0,DigComp,3.4,1,1.0,embedding,0.0,1.0,0.5371292233467102
+iit_bs_ai,MATH 350,Introduction to Computational Mathematics,major_elective,3.0,DigComp,5.1,1,0.5,embedding,0.0,0.5,0.29566216468811035
+iit_bs_ai,,Humanities and Social Sciences,gen_ed,21.0,DigComp,2.3,2,0.5,keyword,0.5,0.0,0.3807789385318756
+iit_bs_ai,,Humanities and Social Sciences,gen_ed,21.0,DigComp,2.5,2,1.0,embedding,0.0,1.0,0.424528568983078
+iit_bs_ai,,Humanities and Social Sciences,gen_ed,21.0,DigComp,3.1,2,1.0,embedding,0.0,1.0,0.4281424880027771
+iit_bs_ai,,Humanities and Social Sciences,gen_ed,21.0,DigComp,3.3,2,1.0,embedding,0.0,1.0,0.4402622878551483
+iit_bs_ai,,Science Requirements,gen_ed,11.0,DigComp,5.1,2,1.0,embedding,0.0,1.0,0.39590394496917725
+iit_bs_ai,,Science Requirements,gen_ed,11.0,DigComp,5.2,2,1.0,embedding,0.0,1.0,0.5299023985862732
+iit_bs_ai,,Science Requirements,gen_ed,11.0,DigComp,5.4,2,1.0,embedding,0.0,1.0,0.4371469020843506
+iit_bs_ai,,Interprofessional Projects (IPRO),gen_ed,6.0,DigComp,2.1,2,1.0,embedding,0.0,1.0,0.4627802073955536
+iit_bs_ai,,Interprofessional Projects (IPRO),gen_ed,6.0,DigComp,2.4,2,1.0,ambos,1.0,1.0,0.40026095509529114
+iit_bs_ai,,Interprofessional Projects (IPRO),gen_ed,6.0,DigComp,5.4,2,1.0,embedding,0.0,1.0,0.39219748973846436

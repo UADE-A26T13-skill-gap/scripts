@@ -1,0 +1,57 @@
+codigo,materia,creditos,capa,anio,nivel
+CS 100,Introduction to the Profession,2,core,,
+CS 115,Object-Oriented Programming I,2,core,,
+CS 116,Object-Oriented Programming II,2,core,,
+CS 330,Discrete Structures,3,core,,
+CS 331,Data Structures and Algorithms,3,core,,
+CS 340,Programming Paradigms and Patterns,3,core,,
+CS 422,Data Mining,3,core,,
+CS 425,Database Organization,3,core,,
+CS 430,Introduction to Algorithms,3,core,,
+CS 480,Introduction to Artificial Intelligence,3,core,,
+CS 481,Artificial Intelligence Language Understanding,3,core,,
+CS 485,Computers and Society,3,core,,
+CS 487,Software Engineering I,3,core,,
+MATH 151,Calculus I,5,core,,
+MATH 152,Calculus II,5,core,,
+MATH 251,Multivariate and Vector Calculus,4,core,,
+MATH 332,Linear Algebra: Theory and Applications,3,core,,
+MATH 474,Probability and Statistics,3,core,,
+MATH 476,Statistics,3,core,,
+,AI Depth Course (slot obligatorio: machine learning avanzado),3,core,,4.0
+,"AI Breadth Course (slot obligatorio, menú heterogéneo)",3,core,,
+CS 484,Introduction to Machine Learning,3,major_elective,,
+CS 584,Machine Learning,3,major_elective,,
+CS 585,Natural Language Processing,3,major_elective,,
+CS 440,Programming Languages and Translators,3,major_elective,,
+CS 445,Object Oriented Design and Programming,3,major_elective,,
+,Computer Vision,3,major_elective,,4.0
+,Advanced Data Mining,3,major_elective,,4.0
+,Deep Learning,3,major_elective,,4.0
+,Reinforcement Learning,3,major_elective,,4.0
+,Advanced Artificial Intelligence,3,major_elective,,4.0
+,Probabilistic Graphical Models,3,major_elective,,4.0
+,Statistical Learning,3,major_elective,,4.0
+,Bayesian Computational Statistics,3,major_elective,,4.0
+,Introduction to Linguistics,3,major_elective,,2.0
+,"Artificial Intelligence, Philosophy and Ethics",3,major_elective,,2.0
+,Bioethics,3,major_elective,,2.0
+,Introduction to Quantum Computing,3,major_elective,,2.0
+,Learning Theory,3,major_elective,,3.0
+,Cognitive Science,3,major_elective,,2.0
+CS 350,Computer Organization and Assembly Language Programming,3,major_elective,,
+CS 351,Systems Programming,3,major_elective,,
+CS 429,Information Retrieval,3,major_elective,,
+CS 451,Introduction to Parallel and Distributed Computing,3,major_elective,,
+CS 458,Introduction to Information Security,3,major_elective,,
+DS 451,Data Science Life Cycle,3,major_elective,,
+DS 480,Data Science Projects,3,major_elective,,
+MATH 484,Regression,3,major_elective,,
+MATH 481,Introduction to Stochastic Processes,3,major_elective,,
+MATH 483,Design and Analysis of Experiments,3,major_elective,,
+MATH 350,Introduction to Computational Mathematics,3,major_elective,,
+,Any CS 500-level course (comodín),3,excluir,,
+,Humanities and Social Sciences,21,gen_ed,,
+,Science Requirements,11,gen_ed,,
+,Interprofessional Projects (IPRO),6,gen_ed,,
+,Minor (fuera de computación),15,free,,
